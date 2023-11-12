@@ -29,8 +29,8 @@ If your employer offers donation-matching, we are on the most common services as
 
 You can mail a check donation to:
 
-T. Greg Doucette Foundation
-311 E. Main Street
+T. Greg Doucette Foundation<br />
+311 E. Main Street<br />
 Durham, NC  27701-3717
 
 ## Direct Donations - Wire
