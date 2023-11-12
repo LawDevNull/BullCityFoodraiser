@@ -11,11 +11,11 @@ Welcome to `foodraiser.info`, the public GitHub repository for information about
 
 Food insecurity affects an estimated 17 million households in the United States, including impact 3.3 million children ([source](https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-u-s/key-statistics-graphics/)). These families are unable to reliably provide enough food for everyone in their household without help from a food pantry or other program.
 
-A patchwork of federal, state, and local food programs help address food insecurity in the community, including dedicated programs focused on after school days, weekends, and the summer break [source](https://foodbankcenc.org/our-work/programs/childrens-programs/).
+A patchwork of federal, state, and local food programs help address food insecurity in the community, including dedicated programs focused on after school days, weekends, and the summer break ([source](https://foodbankcenc.org/our-work/programs/childrens-programs/)).
 
-But in North Carolina there is no program to assist with the 2-week winter break each December or the 1-week spring breack each March, when schoolkids are home and unable to rely on school-based food programs. This is the gap the Bull City Foodraiser helps fill in Durham.
+But in North Carolina, there is no food program to assist with the 2-week winter break each December or the 1-week spring breack each March, when schoolkids are home and unable to rely on school-based food programs. This is the gap the Bull City Foodraiser helps to fill.
 
-## About the Foodraiser
+## About the Bull City Foodraiser
 
 The Bull City Foodraiser was created by local elementary school educator Turquoise Parker and her husband Donald in 2015. The family of one of Mrs. Parker's students asked for help with finding food for Thanksgiving. The Parkers realized, after helping that family, that other students were likely facing the same challenges. So the Parkers reached out to their friends to help crowdsource groceries for Turquoise's class to take home for the 2-week winter break, in what began as the Eastway Elementary Food Drive.  
 
@@ -25,7 +25,7 @@ The Bull City Foodraiser was created by local elementary school educator Turquoi
 
 `December 2015: a photo from the first-ever "Foodraiser"`
 
-That effort to feed one classroom has grown into what is now the Bull City Foodraiser, a joint project of Mrs. Parker's Professors and the T. Greg Doucette Foundation. We now provide a 5,103 full bags of groceries -- one for every single student at each of 12 elementary schools in Durham.
+That effort to feed one classroom has grown into what is now the Bull City Foodraiser, a joint project of Mrs. Parker's Professors and the T. Greg Doucette Foundation. We now provide a 5,103 full bags of groceries each December -- one for every single student at each of 12 elementary schools in Durham.
 
 <img src="https://github.com/LawDevNull/BullCityFoodraiser/assets/58960990/7cee3d73-c16d-42f0-9dae-c55fc3764251" width="500px" caption="Volunteers taking a break in front of several hundred packed bags of groceries in December 2022">
 
