@@ -14,7 +14,7 @@ If you instead donate through a third-party service – such as Benevity, GoFund
 
 The T. Greg Doucette Foundation is a 501(c)(3) public charity.
 
-You can view [our determination letter on the IRS website](https://apps.irs.gov/app/eos/details/#:~:text=FinalLetter_85%2D2110706_TGREGDOUCETTEFOUNDATIONINC_07222020_00.tif).
+You can view [our determination letter on the IRS website](https://apps.irs.gov/pub/epostcard/dl/FinalLetter_85-2110706_TGREGDOUCETTEFOUNDATIONINC_07222020_00.tif).
 
 ## Contact Information
 
