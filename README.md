@@ -36,4 +36,4 @@ That effort to feed one classroom has grown into what is now the Bull City Foodr
 We can't make this happen each year without the community's support!
 
 - To help the Foodraiser financially, check out [our Donate page](https://github.com/LawDevNull/BullCityFoodraiser/blob/main/DONATE.md).
-- To volunteer on-site with the 9th Annual Foodraiser, use Ms. Parker's [Sign Up Genius page](https://bit.ly/2023Foodraiser).
+- To volunteer on-site with the 10th Annual Foodraiser, please mark your calendars for 3-7 December 2024! A volunteer page will be provided closer to the event.
