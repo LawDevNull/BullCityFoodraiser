@@ -8,7 +8,7 @@ We are a community-run project that only operates once a year (or twice when fun
 
 ## Project-Specific Fundraising
 
-The 9th Annual Bull City Foodraiser has a dedicated GoFundMe page here: https://www.gofundme.com/f/9th-annual-bull-city-foodraiser
+The 10th Annual Bull City Foodraiser does not yet have a dedicated GoFundMe page. One will be added in late October.
 
 ## General Fundraising
 
