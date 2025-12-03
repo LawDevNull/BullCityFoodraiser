@@ -8,7 +8,9 @@ We are a community-run project that only operates once a year (or twice when fun
 
 ## Project-Specific Fundraising
 
-The 10th Annual Bull City Foodraiser does not yet have a dedicated GoFundMe page. One will be added in late October.
+The 11th Annual Bull City Foodraiser has [a dedicated GoFundMe page here](https://www.gofundme.com/f/11th-annual-bull-city-foodraiser).
+
+Donations to GoFundMe are forwarded to the PayPal Giving Fund, as part of GFM's partnership with PayPal. You can also [donate to the PayPal Giving Fund](https://www.paypal.com/US/fundraiser/charity/4154805) directly. 
 
 ## General Fundraising
 
@@ -35,4 +37,4 @@ Durham, NC  27701-3717
 
 ## Direct Donations - Wire
 
-If you would like to make a large donation ($10,000 USD or more), please [contact T. Greg](https://github.com/LawDevNull/BullCityFoodraiser/blob/main/REGULATORY.md#contact-information) for wire transfer details.
+If you would like to make a large donation ($10,000 USD or more) via wire transfer, please [contact T. Greg](https://github.com/LawDevNull/BullCityFoodraiser/blob/main/REGULATORY.md#contact-information) for transfer details.
