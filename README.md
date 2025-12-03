@@ -11,7 +11,7 @@ Welcome to `foodraiser.info`, the public GitHub repository for information about
 
 Food insecurity affects an estimated 17 million households in the United States, including impacting 3.3 million children ([source](https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-u-s/key-statistics-graphics/)). These families are unable to reliably provide enough food for everyone in their household without help from a food pantry or other program.
 
-A patchwork of federal, state, and local food programs help address food insecurity in the community, including dedicated programs focused on after school days, weekends, and the summer break ([source](https://foodbankcenc.org/our-work/programs/childrens-programs/)).
+A patchwork of federal, state, and local food programs help address food insecurity in the community, including dedicated programs focused on after school days, weekends, and the summer break ([source](https://foodbankcenc.org/our-work/childrens-programs/)).
 
 But in North Carolina, there is no food program to assist with the 2-week winter break each December or the 1-week spring breack each March, when schoolkids are home and unable to rely on school-based food programs. This is the gap the Bull City Foodraiser helps to fill.
 
@@ -25,7 +25,7 @@ The Bull City Foodraiser was created by local elementary school educator Turquoi
 
 `December 2015: a photo from the first-ever "Foodraiser"`
 
-That effort to feed one classroom has grown into what is now the Bull City Foodraiser, a joint project of Mrs. Parker's Professors and the T. Greg Doucette Foundation. We now provide 5,103 full bags of groceries each December -- one for every single student at each of 12 elementary schools in Durham.
+That effort to feed one classroom has grown into what is now the Bull City Foodraiser, a joint project of Mrs. Parker's Professors and the T. Greg Doucette Foundation. We now provide ~5,103 full bags of groceries each December -- one for every single student at each of 12 elementary schools in Durham.
 
 <img src="https://github.com/LawDevNull/BullCityFoodraiser/assets/58960990/7cee3d73-c16d-42f0-9dae-c55fc3764251" width="500px" caption="Volunteers taking a break in front of several hundred packed bags of groceries in December 2022">
 
@@ -36,4 +36,4 @@ That effort to feed one classroom has grown into what is now the Bull City Foodr
 We can't make this happen each year without the community's support!
 
 - To help the Foodraiser financially, check out [our Donate page](https://github.com/LawDevNull/BullCityFoodraiser/blob/main/DONATE.md).
-- To volunteer on-site with the 10th Annual Foodraiser, please mark your calendars for 3-7 December 2024! A volunteer page will be provided closer to the event.
+- To volunteer on-site with the 11th Annual Foodraiser, please mark your calendars for 9-12 December 2025! Volunteers can sign-up at [this SignupGenius page](https://www.signupgenius.com/go/10C0F48AAAE28A4FB6-58834837-december#/).
