@@ -25,7 +25,7 @@ The Bull City Foodraiser was created by local elementary school educator Turquoi
 
 `December 2015: a photo from the first-ever "Foodraiser"`
 
-That effort to feed one classroom has grown into what is now the Bull City Foodraiser, a joint project of Mrs. Parker's Professors and the T. Greg Doucette Foundation. We now provide ~5,103 full bags of groceries each December -- one for every single student at each of 12 elementary schools in Durham.
+That effort to feed one classroom has grown into what is now the Bull City Foodraiser, a joint project of Mrs. Parker's Professors and the T.&nbsp;Greg Doucette Foundation. We now provide ~5,103 full bags of groceries each December -- one for every single student at each of 12 elementary schools in Durham.
 
 <img src="https://github.com/LawDevNull/BullCityFoodraiser/assets/58960990/7cee3d73-c16d-42f0-9dae-c55fc3764251" width="500px" caption="Volunteers taking a break in front of several hundred packed bags of groceries in December 2022">
 
@@ -33,7 +33,7 @@ That effort to feed one classroom has grown into what is now the Bull City Foodr
 
 ## Even More About the Bull City Foodraiser
 
-If you want an excessively detailed history of the Foodraiser, including photos and videos and links to all sorts of other source material, T. Greg [posted a year-by-year history of the event on Bluesky](https://bsky.app/profile/gregdoucette.bsky.social/post/3m5enudynts2z) (be forewarned, it's long). 
+If you want an excessively detailed history of the Foodraiser, including photos and videos and links to all sorts of other source material, T.&nbsp;Greg [posted a year-by-year history of the event on Bluesky](https://bsky.app/profile/gregdoucette.bsky.social/post/3m5enudynts2z) (be forewarned, it's long). 
 
 ## How You Can Help
 
