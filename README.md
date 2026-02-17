@@ -31,9 +31,13 @@ That effort to feed one classroom has grown into what is now the Bull City Foodr
 
 `December 2022: volunteers taking a break after a full day of bagging`
 
+## Even More About the Bull City Foodraiser
+
+If you want an excessively detailed history of the Foodraiser, including photos and videos and links to all sorts of other source material, T. Greg [posted a year-by-year history of the event on Bluesky](https://bsky.app/profile/gregdoucette.bsky.social/post/3m5enudynts2z) (be forewarned, it's long). 
+
 ## How You Can Help
 
 We can't make this happen each year without the community's support!
 
 - To help the Foodraiser financially, check out [our Donate page](https://github.com/LawDevNull/BullCityFoodraiser/blob/main/DONATE.md).
-- To volunteer on-site with the 11th Annual Foodraiser, please mark your calendars for 9-12 December 2025! Volunteers can sign-up at [this SignupGenius page](https://www.signupgenius.com/go/10C0F48AAAE28A4FB6-58834837-december#/).
+- To volunteer on-site with the 12th Annual Foodraiser, please keep an eye on this space. We should have dates finalized with the school system around September-ish (it will likely be 7-10 December 2026).
