@@ -33,7 +33,7 @@ That effort to feed one classroom has grown into what is now the Bull City Foodr
 
 ## Even More About the Bull City Foodraiser
 
-If you want an excessively detailed history of the Foodraiser, including photos and videos and links to all sorts of other source material, T.&nbsp;Greg [posted a year-by-year history of the event on Bluesky](https://bsky.app/profile/gregdoucette.bsky.social/post/3m5enudynts2z) (be forewarned, it's long). 
+If you want an excessively detailed history of the Foodraiser, including photos and videos and links to all sorts of other source material, T.&nbsp;Greg [posted a year-by-year history of the event on Bluesky](https://bsky.app/profile/gregdoucette.bsky.social/post/3m5enudynts2z). Be forewarned, it's long: if the thread stops before you have gotten to Year 10, you will need to click the last post you see and then click `Show more replies`, because we basically broke Bluesky's threading from the length. 
 
 ## How You Can Help
 
